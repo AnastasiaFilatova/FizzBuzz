@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{FACD93C1-59F5-408D-8686-C97C250F2D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTests", "FizzBuzzTests\FizzBuzzTests.csproj", "{9BB64AA9-0A41-4472-AC3B-EC85AD6B601B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A7C4F15-C266-4B61-9937-F764F96AC955}"
+	ProjectSection(SolutionItems) = preProject
+		Instructions.txt = Instructions.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{6C9DEDAD-4611-45DC-BA0F-8D7B6C16EC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACD93C1-59F5-408D-8686-C97C250F2D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACD93C1-59F5-408D-8686-C97C250F2D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACD93C1-59F5-408D-8686-C97C250F2D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACD93C1-59F5-408D-8686-C97C250F2D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB64AA9-0A41-4472-AC3B-EC85AD6B601B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB64AA9-0A41-4472-AC3B-EC85AD6B601B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB64AA9-0A41-4472-AC3B-EC85AD6B601B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB64AA9-0A41-4472-AC3B-EC85AD6B601B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9DEDAD-4611-45DC-BA0F-8D7B6C16EC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9DEDAD-4611-45DC-BA0F-8D7B6C16EC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9DEDAD-4611-45DC-BA0F-8D7B6C16EC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9DEDAD-4611-45DC-BA0F-8D7B6C16EC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
